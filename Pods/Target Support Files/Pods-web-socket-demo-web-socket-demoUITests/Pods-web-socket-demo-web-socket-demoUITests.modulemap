@@ -1,0 +1,6 @@
+framework module Pods_web_socket_demo_web_socket_demoUITests {
+  umbrella header "Pods-web-socket-demo-web-socket-demoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
